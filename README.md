@@ -1,1 +1,1 @@
-# Digital_Design_Project
+# Digital_Design_Project (Course Project)
